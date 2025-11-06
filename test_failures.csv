@@ -1,0 +1,2 @@
+Round,Timestamp,From Node ID,From Node Role,From Node State,To Node ID,To Node Role,To Node State,Action,Action Value,Consensus Value,Consensus Reached
+1,2025-11-05 21:49:25,1,Acceptor,DOWN,N/A,N/A,N/A,PrepareNotSent,N/A,N/A,False
